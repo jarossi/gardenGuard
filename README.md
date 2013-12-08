@@ -6,7 +6,9 @@ Arduino Garden Guard
 Compiled against arduino 1.0.4, using 
 
 Time http://www.pjrc.com/teensy/td_libs_Time.html
+
 DS1307RTC http://www.pjrc.com/teensy/td_libs_DS1307RTC.html
+
 
 ino/ arduino sketch
 
